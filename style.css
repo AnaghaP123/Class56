@@ -1,0 +1,15 @@
+body 
+{
+    text-align:center;
+    background-color: lightseagreen;
+}
+img
+{
+    height: auto;
+    width: auto;
+}
+button
+{
+    height: 40px;
+    width: 40px;
+}
